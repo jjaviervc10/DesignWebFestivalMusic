@@ -1,0 +1,22 @@
+{
+    "name": "festivalmusica",
+    "version": "1.0.0",
+    "description": "Aprendiendo SASS y NPM",
+    "type": "module",
+    "scripts": {
+        "sass": "sass src/scss:build/css",
+        "dev": "gulp"
+    },
+    "keywords": [
+        "SASS",
+        "NPM",
+        "Gulp"
+    ],
+    "author": "Jesús Javier Velazquez Carrillo",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^5.0.0",
+        "gulp-sass": "^5.1.0",
+        "sass": "^1.77.6"
+    }
+}
